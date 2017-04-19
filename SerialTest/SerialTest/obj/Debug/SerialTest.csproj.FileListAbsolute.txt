@@ -1,0 +1,16 @@
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\SerialTest.exe.config
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+D:\대학교\3학년 1학기\SerialTest\SerialTest\obj\Debug\SerialTest.csprojResolveAssemblyReference.cache
+D:\대학교\3학년 1학기\SerialTest\SerialTest\obj\Debug\SerialTest.Form1.resources
+D:\대학교\3학년 1학기\SerialTest\SerialTest\obj\Debug\SerialTest.Properties.Resources.resources
+D:\대학교\3학년 1학기\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.GenerateResource.Cache
+D:\대학교\3학년 1학기\SerialTest\SerialTest\obj\Debug\SerialTest.exe
+D:\대학교\3학년 1학기\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\MySql.Data.dll
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\MySql.Fabric.Plugin.dll
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\MySql.Web.dll
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\MySql.Data.xml
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\MySql.Web.xml
