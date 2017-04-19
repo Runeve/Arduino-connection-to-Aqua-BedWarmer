@@ -1,0 +1,48 @@
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\SerialTest.exe.config
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+D:\대학교\3학년 1학기\SerialTest\SerialTest\obj\Debug\SerialTest.csprojResolveAssemblyReference.cache
+D:\대학교\3학년 1학기\SerialTest\SerialTest\obj\Debug\SerialTest.Form1.resources
+D:\대학교\3학년 1학기\SerialTest\SerialTest\obj\Debug\SerialTest.Properties.Resources.resources
+D:\대학교\3학년 1학기\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.GenerateResource.Cache
+D:\대학교\3학년 1학기\SerialTest\SerialTest\obj\Debug\SerialTest.exe
+D:\대학교\3학년 1학기\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\MySql.Data.dll
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\MySql.Fabric.Plugin.dll
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\MySql.Web.dll
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\MySql.Data.xml
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\대학교\3학년 1학기\SerialTest\SerialTest\bin\Debug\MySql.Web.xml
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Debug\SerialTest.exe.config
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Debug\MySql.Data.dll
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Debug\MySql.Fabric.Plugin.dll
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Debug\MySql.Web.dll
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Debug\MySql.Data.xml
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Debug\MySql.Web.xml
+E:\아두이노 온수매트\SerialTest\SerialTest\obj\Debug\SerialTest.csprojResolveAssemblyReference.cache
+E:\아두이노 온수매트\SerialTest\SerialTest\obj\Debug\SerialTest.Form1.resources
+E:\아두이노 온수매트\SerialTest\SerialTest\obj\Debug\SerialTest.Properties.Resources.resources
+E:\아두이노 온수매트\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.GenerateResource.Cache
+E:\아두이노 온수매트\SerialTest\SerialTest\obj\Debug\SerialTest.exe
+E:\아두이노 온수매트\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Debug\SerialTest.exe.config
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Debug\MySql.Data.dll
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Debug\MySql.Web.dll
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Debug\MySql.Data.xml
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Debug\MySql.Web.xml
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\obj\Debug\SerialTest.Form1.resources
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\obj\Debug\SerialTest.Properties.Resources.resources
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\obj\Debug\SerialTest.csproj.GenerateResource.Cache
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\obj\Debug\SerialTest.exe
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\obj\Debug\SerialTest.pdb
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\obj\Debug\SerialTest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Release\SerialTest.exe.config
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Release\SerialTest.exe
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Release\SerialTest.pdb
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Release\MySql.Data.dll
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Release\MySql.Fabric.Plugin.dll
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Release\MySql.Web.dll
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Release\MySql.Data.xml
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Release\MySql.Data.Entity.EF6.xml
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\bin\Release\MySql.Web.xml
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\obj\Release\SerialTest.Form1.resources
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\obj\Release\SerialTest.Properties.Resources.resources
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\obj\Release\SerialTest.csproj.GenerateResource.Cache
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\obj\Release\SerialTest.exe
+C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\obj\Release\SerialTest.pdb
