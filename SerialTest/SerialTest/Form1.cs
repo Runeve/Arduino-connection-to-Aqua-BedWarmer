@@ -18,9 +18,9 @@ namespace SerialTest
     public partial class Form1 : Form
     {
         SerialPort serialPort;
-        string strUri = "http://210.94.194.64:8080/arduino/save_data.php?";
+        string strUri = "http://";
         string bed_data = "";
-      
+        string sensor_id = "";      
        
         int t;
         Thread th = null;
@@ -30,10 +30,7 @@ namespace SerialTest
             InitializeComponent();
 
             textBox1.SelectionStart = textBox1.Text.Length;
-            textBox1.ScrollToCaret();
-
-
-          
+            textBox1.ScrollToCaret(); 
         }
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -64,7 +61,6 @@ namespace SerialTest
                     System.Threading.Thread.Sleep(1000);
                     if (i == 0)//첫번째는 패스
                         continue;
-                   
 
                     if (iRecSize > 0)
                     {
@@ -101,10 +97,7 @@ namespace SerialTest
                     }
                     System.Threading.Thread.Sleep(t-2000);
                 }
-                serialPort.Close();
-                //MessageBox.Show("끝!");
-
-                
+                serialPort.Close();     
             }
         }
         
@@ -115,14 +108,11 @@ namespace SerialTest
 
             if (comboBox1.Text.Equals("")||textBox2.Text.Equals(""))//초나 포트가 비어있으면 실행 안함
             {
-                MessageBox.Show("포트번호나 시간이 비어있습니다ㅏ");
+                MessageBox.Show("포트번호나 시간이 비어있습니다.");
             }
             else
             {
-                
-               
-
-                    t = Int32.Parse(textBox2.Text) * 1000;
+                t = Int32.Parse(textBox2.Text) * 1000;
                 if (t < 2000)
                 {
                     MessageBox.Show("2초이상으로 적어주세요!");
@@ -133,14 +123,7 @@ namespace SerialTest
                     th.Start();
                 }
              
-            } 
-               
-                
-        }
-       
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-           
+            }           
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -149,34 +132,54 @@ namespace SerialTest
             COM = comboBox1.Text;
             if (COM.Equals(""))
             {
-                MessageBox.Show("포트번호를 정해주세용");
+                MessageBox.Show("포트번호를 입력해주세요");
             }
             else
             {
                 serialPort = new SerialPort("COM" + COM, 9600, Parity.None, 8, StopBits.One);
-                serialPort.Open();
-                MessageBox.Show("connect success!!");
+                try
+                {
+                    serialPort.Open();
+                }catch(IOException)
+                {
+                    MessageBox.Show("Not Connect!");
+                    return;
+                }         
+                MessageBox.Show("Successfully Connect!");
                 serialPort.Close();
-
             }
         }
 
         private void button3_Click(object sender, EventArgs e)
         {//중지
-            th.Abort();
+            //th.Suspend();
             comboBox1.Text = "";
             th = null;
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
         }
 
       
         private void button5_Click(object sender, EventArgs e)
         {//재시작
             
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            strUri += textBox4.Text + ":8080/arduino/save_data.php?";
+            MessageBox.Show("등록되었습니다.");
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (textBox3.Text == "")
+            {
+                MessageBox.Show("등록할 기기 이름을 입력해주세요");
+            }
+            else
+            {
+                MessageBox.Show("기기 이름이 등록되었습니다.");
+                sensor_id += textBox3.Text;
+            }
         }
     }
 }
