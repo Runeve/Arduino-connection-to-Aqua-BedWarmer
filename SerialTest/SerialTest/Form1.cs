@@ -73,8 +73,8 @@ namespace SerialTest
                             strRecData = "";
 
                             /*parsing*/
-                            strRecData = "sensor_id = bed1 |" + serialPort.ReadLine();
-                            
+                            strRecData = "sensor_id = "+sensor_id+" |" + serialPort.ReadLine();
+
                             textBox1.AppendText(strRecData + "\n");
                             strRecData = strRecData.Replace(" ", "");
                             char[] del = { '\r' };
@@ -172,7 +172,7 @@ namespace SerialTest
         {//종료
             th.Abort();
 
-            MessageBox.Show("종료링~");
+            MessageBox.Show("프로그램을 종료합니다");
             Application.Exit();
         }
 

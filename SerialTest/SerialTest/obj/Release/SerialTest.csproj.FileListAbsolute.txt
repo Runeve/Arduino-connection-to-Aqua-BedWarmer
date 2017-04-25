@@ -13,3 +13,19 @@ C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\obj\Release\SerialTest.Pro
 C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\obj\Release\SerialTest.csproj.GenerateResource.Cache
 C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\obj\Release\SerialTest.exe
 C:\Users\Gru\Desktop\SerialTest\SerialTest\SerialTest\obj\Release\SerialTest.pdb
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Release\SerialTest.exe.config
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Release\SerialTest.exe
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Release\SerialTest.pdb
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Release\MySql.Data.dll
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Release\MySql.Data.Entity.EF6.dll
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Release\MySql.Fabric.Plugin.dll
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Release\MySql.Web.dll
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Release\MySql.Data.xml
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Release\MySql.Data.Entity.EF6.xml
+E:\아두이노 온수매트\SerialTest\SerialTest\bin\Release\MySql.Web.xml
+E:\아두이노 온수매트\SerialTest\SerialTest\obj\Release\SerialTest.csprojResolveAssemblyReference.cache
+E:\아두이노 온수매트\SerialTest\SerialTest\obj\Release\SerialTest.Form1.resources
+E:\아두이노 온수매트\SerialTest\SerialTest\obj\Release\SerialTest.Properties.Resources.resources
+E:\아두이노 온수매트\SerialTest\SerialTest\obj\Release\SerialTest.csproj.GenerateResource.Cache
+E:\아두이노 온수매트\SerialTest\SerialTest\obj\Release\SerialTest.exe
+E:\아두이노 온수매트\SerialTest\SerialTest\obj\Release\SerialTest.pdb
