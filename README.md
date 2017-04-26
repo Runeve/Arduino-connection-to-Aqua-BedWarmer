@@ -10,7 +10,8 @@ DB uses Xampp to access and manage the mysql database with phpmyadmin.
 # 데이터 베이스 setting 방법
 
 1. XAMPP를 다운받습니다.
-   [XAMPP Download[(https://www.apachefriends.org/index.html)
+
+   [XAMPP Download](https://www.apachefriends.org/index.html)
 
 2. XAMPP Control Panel에서 Port를 수정합니다
    > Apache -> Config -> Apache(http.conf) 클릭해 Listen 다음 숫자를 8080으로 수정합니다.
@@ -23,6 +24,8 @@ DB uses Xampp to access and manage the mysql database with phpmyadmin.
 
 5. 데이터 베이스를 구축합니다.
    >localhost:8080/phpadmin 으로 접속해 다운받은 sql를 내려 받기 해서 데이터 베이스를 구축합니다.
+   
+[동영상 참고자료](https://youtu.be/ntEVjj07eug)
 
 # 프로그램 실행 방법
 
