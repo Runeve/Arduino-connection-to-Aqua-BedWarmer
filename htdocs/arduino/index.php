@@ -36,7 +36,7 @@
 <?php
 	include("connect.php");
 	
-	$result = mysql_query("SELECT * FROM `arduino_data`");
+	$result = mysql_query("SELECT * FROM `arduino_data` ORDER BY id DESC");
 
 	while($line = mysql_fetch_array($result))
 	{
